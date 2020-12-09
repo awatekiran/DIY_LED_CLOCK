@@ -22,8 +22,8 @@ String date;
 // =======================================================================
 // CHANGE YOUR CONFIG HERE:
 // =======================================================================
-const char* ssid     = "Pallazo";     // SSID of local network
-const char* password = "n!ghth@wkx6";   // Password on network
+const char* ssid     = "wifi_ssid";     // SSID of local network
+const char* password = "wifi_passwd";   // Password on network
 
 void setup() 
 {
