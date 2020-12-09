@@ -1,6 +1,6 @@
 # DIY_LED_CLOCK
  
-![](https://media.giphy.com/media/Ce6CABYtTSCnn2Fy54/giphy.gif)
+![](led_clock.gif)
 
 ## Components Used
 - ESP8266 nodemcu
